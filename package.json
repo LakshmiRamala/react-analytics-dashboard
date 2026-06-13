@@ -1,0 +1,32 @@
+{
+  "name": "react-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Full-stack analytics dashboard built with React.js, MUI, MobX, and Highcharts",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [
+    "react",
+    "dashboard",
+    "analytics",
+    "mui",
+    "mobx",
+    "highcharts",
+    "data-visualization"
+  ],
+  "author": "Naga Lakshmi Ramala",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "mobx": "^6.12.0",
+    "mobx-react": "^9.1.0",
+    "highcharts": "^11.2.0",
+    "highcharts-react-official": "^3.2.1",
+    "axios": "^1.6.2"
+  }
+}
